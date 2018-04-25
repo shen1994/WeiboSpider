@@ -1,4 +1,9 @@
-# WeiboSpider  
+# WeiboSpider 
+
+## 0.效果展示  
+![image]()  
+![image]()  
+![image]()  
 
 ## 1.安装相关文件  
 * tools文件下的selenium-3.11.0.tar.gz,html内容提取安装包  
