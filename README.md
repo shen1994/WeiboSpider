@@ -29,12 +29,14 @@
 ## 3.详细操作  
 * 运行数据库,打开mongo文件夹，双击运行mongodb文件下start.bat  
 * 数据库启动在localhost:27017下  
+
 ---
 
 * 运行项目WeiboSpiderUrls,运行一段时间,确保数据库中存在内容  
 * 执行以下命令  
 * `cd WeiboSpiderUrls`  
 * `python start.py`  
+
 ---
 
 * 运行项目WeiboSpider,不断从数据库中读取URL，并且下载POST和RESPONSE内容  
