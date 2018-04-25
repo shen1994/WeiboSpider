@@ -1,9 +1,9 @@
 # WeiboSpider 
 
 ## 0.效果展示  
-![image]()  
-![image]()  
-![image]()  
+![image](https://github.com/shen1994/README/raw/master/images/WeiboSpider_urls.jpg)  
+![image](https://github.com/shen1994/README/raw/master/images/WeiboSpider_posts.jpg)  
+![image](https://github.com/shen1994/README/raw/master/images/WeiboSpider_responses.jpg)  
 
 ## 1.安装相关文件  
 * tools文件下的selenium-3.11.0.tar.gz,html内容提取安装包  
