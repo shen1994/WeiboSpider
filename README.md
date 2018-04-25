@@ -1,11 +1,11 @@
 # WeiboSpider 
 
-## 0.效果展示  
-0.0 爬取微博用户发布内容的评论和转发网址,作为爬取内容的接口  
+## 0.效果展示  
+* 爬取微博用户发布内容的评论和转发网址,作为爬取内容的接口  
 ![image](https://github.com/shen1994/README/raw/master/images/WeiboSpider_urls.jpg)  
-0.1 爬取用户的发布内容  
+* 爬取用户的发布内容  
 ![image](https://github.com/shen1994/README/raw/master/images/WeiboSpider_posts.jpg)  
-0.2 爬取用户对该发布内容的所有评论和转发内容  
+* 爬取用户对该发布内容的所有评论和转发内容  
 ![image](https://github.com/shen1994/README/raw/master/images/WeiboSpider_responses.jpg)  
 
 ## 1.安装相关文件  
