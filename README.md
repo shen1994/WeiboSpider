@@ -40,3 +40,6 @@
 * `cd WeiboSpiderPosts`  
 * `python start.py`  
 
+## 4. 部分参考链接  
+* <https://github.com/LiuXingMing/SinaSpider>  
+
