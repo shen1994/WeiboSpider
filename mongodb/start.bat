@@ -1,0 +1,1 @@
+mongod --config "C:\Users\shen1994\Desktop\WeiboSpyder\mongodb\mongo.conf"
