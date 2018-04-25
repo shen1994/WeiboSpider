@@ -35,7 +35,7 @@
 * `cd WeiboSpiderUrls`  
 * `python start.py`  
 ---
-* 运行项目WeiboSpider,不断从数据库中读取URL，并且下载POST和RESPONSE内容  
+* 运行项目WeiboSpiderPosts,不断从数据库中读取URL，并且下载POST和RESPONSE内容  
 * 执行以下命令  
 * `cd WeiboSpiderPosts`  
 * `python start.py`  
