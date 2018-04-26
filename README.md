@@ -40,6 +40,10 @@
 * `cd WeiboSpiderPosts`  
 * `python start.py`  
 
-## 4. 部分参考链接  
+## 4.分布式批处理  
+* 在同一台电脑上执行两个项目文件，但是需要更改settings文件中的MONGO_DB的文件名,确保抓取数据在同一数据库库中  
+* 由于一台电脑的处理能力有限,推荐使用多台电脑操作,但是在不同电脑中的账户名需要改变,即cookies.py文件中的weibo_accounts  
+
+## 5. 部分参考链接  
 * <https://github.com/LiuXingMing/SinaSpider>  
 
