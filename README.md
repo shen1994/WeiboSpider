@@ -16,7 +16,7 @@
 * tools文件下的Scrapy-1.5.0.tar.gz,爬虫框架,依赖的文件很多,包括VCForPython27.rar  
 * tools文件下的mongodb-win32-x86_64-2008plus-ssl-3.6.4-signed.rar,mongo数据库(暂时删除,自行下载),下载链接:  
 <https://www.mongodb.org/dl/win32/x86_64-2008plus-ssl?_ga=2.229434714.714907189.1524314812-1414923153.1524314812>  
-* mongodb私人下载链接: 链接: <> 密码: 
+* mongodb私人下载链接: 链接: <https://pan.baidu.com/s/1RlBSlo72rWTfyaHAMqkluw> 密码: xnsc  
 * tools文件下的pymongo-3.6.1.tar.gz,管理个人的数据库  
 * tools文件下的robomongo-0.9.0.rar,mongo数据库的可视化工具  
 
