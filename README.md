@@ -50,7 +50,6 @@ weibo_accounts = [
 ## 4. 参考项目  
 链接: <https://github.com/LiuXingMing/SinaSpider>  
 
-## 5. 分布式下载方法  
-
-
- 
+## 5. 分布式下载方法  
+* 5.1 在不同的电脑上执行项目WeiboSpiderUrls和WeiboSpiderPosts,更改cookies中账号,每台电脑处理30个用户ID  
+* 5.2 在URL下载结束的前提下,对于WeiboSpiderPosts,每台电脑开3个项目,分别处理10个用户ID  
