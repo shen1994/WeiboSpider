@@ -36,8 +36,8 @@
 `python data_fetch.py`  
 
 ## 3. 用户模拟登录  
-3.1 购买方法  
-淘宝搜店家 账号素材生产基地  
+3.1 购买方法  
+淘宝搜店家 账号素材生产基地  
 淘宝参考链接: <https://item.taobao.com/item.htm?spm=a1z09.2.0.0.31712e8dE2aukf&id=562811960987&_u=d1hjjqk7b24c>  
 3.2 可参考账号  
 项目WeiboSpiderUrls下cookies文件中weibo_accounts  
