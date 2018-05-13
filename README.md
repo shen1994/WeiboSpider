@@ -35,6 +35,22 @@
 `cd WeiboSpiderFilter`  
 `python data_fetch.py`  
 
-## 3. 下载
+## 3. 用户模拟登录  
+3.1 购买方法  
+淘宝搜店家 账号素材生产基地  
+淘宝参考链接: <https://item.taobao.com/item.htm?spm=a1z09.2.0.0.31712e8dE2aukf&id=562811960987&_u=d1hjjqk7b24c>  
+3.2 可参考账号  
+项目WeiboSpiderUrls下cookies文件中weibo_accounts  
+weibo_accounts = [  
+    {"username":'15238568085', "password":'hb727745'},  
+    {"username":'18280984615', "password":'hb999129'},  
+    {"username":'13526194134', "password":'hb953454'},  
+]  
+
+## 4. 参考项目  
+链接: <https://github.com/LiuXingMing/SinaSpider>  
+
+## 5. 分布式下载方法  
+
 
  
