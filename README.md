@@ -10,8 +10,8 @@
 
 ## 1. 软件下载  
 * 1.1 微博模拟登录 selenium-3.11.0.tar.gz  
-   tools文件下selenium-3.11.0.tar.gz  
-* 1.2 浏览器模拟控制器 VCForPython27.rar和chromedriver_win32.zip  
+   tools文件下selenium-3.11.0.tar.gz  
+* 1.2 浏览器模拟控制器 VCForPython27.rar和chromedriver_win32.zip  
   tools文件下VCForPython27.rar和chromedriver_win32.zip  
 * 1.3 爬虫框架 Scrapy-1.5.0.tar.gz  
   tools文件下Scrapy-1.5.0.tar.gz  
