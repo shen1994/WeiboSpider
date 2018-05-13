@@ -23,15 +23,15 @@
   tools文件下robomongo-0.9.0.rar  
  
 ## 2. 操作流程  
-* 2.1 运行mongo数据库,创建本地地址localhost:27017  
+* 2.1 运行mongo数据库,创建本地地址localhost:27017  
 双击mongodb文件下的start.bat  
-* 2.2 下载post的URL链接(在spiders.py中填入用户ID号, 保证该项目运行一段时间)  
+* 2.2 下载post的URL链接(在spiders.py中填入用户ID号, 保证该项目运行一段时间)  
 `cd WeiboSpiderUrls`  
 `python start.py`  
 * 2.3 下载post与response(在WeiboSpiderUrls项目启动一段时间后即可执行)  
 `cd WeiboSpiderPosts`  
 `python start.py`  
-* 2.4 从数据库中导出文件并并清洗(需保证每一个ID号的post全部下载完成,正在进行...)  
+* 2.4 从数据库中导出文件并并清洗(需保证每一个ID号的post全部下载完成,正在进行...)  
 `cd WeiboSpiderFilter`  
 `python data_fetch.py`  
 
