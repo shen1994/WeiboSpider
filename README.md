@@ -42,9 +42,9 @@
 3.2 可参考账号  
 项目WeiboSpiderUrls下cookies文件中weibo_accounts  
 weibo_accounts = [  
-    {"username":'15238568085', "password":'hb727745'},  
-    {"username":'18280984615', "password":'hb999129'},  
-    {"username":'13526194134', "password":'hb953454'},  
+&nbsp;&nbsp;&nbsp;&nbsp;{"username":'15238568085', "password":'hb727745'},  
+&nbsp;&nbsp;&nbsp;&nbsp;{"username":'18280984615', "password":'hb999129'},  
+&nbsp;&nbsp;&nbsp;&nbsp;{"username":'13526194134', "password":'hb953454'},  
 ]  
 
 ## 4. 参考项目  
