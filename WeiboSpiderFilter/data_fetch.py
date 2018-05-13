@@ -92,5 +92,10 @@ if __name__ == "__main__":
                     infile.writelines("\n")
 
             print id_num + "--->" + one_id + "--->" + str(i) + "--->" + "OK"
+        
+        # 删除信息缺失的项
+        if is_delete:
+            post_coll.delete_many({"ID": id_num})
+            response_coll.delete_many({"ID_ID": id_num})
             
         print id_num + "--->" + "OK"
