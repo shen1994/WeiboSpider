@@ -32,7 +32,7 @@
 `cd WeiboSpiderPosts`  
 `python start.py`  
 * 2.4 从数据库中导出文件并并清洗(需保证每一个ID号的post全部下载完成,正在进行...)  
-`cd WeiboSpiderFilter`  
+`cd WeiboSpiderFilter`  
 `python data_fetch.py`  
 
 ## 3. 用户模拟登录  
